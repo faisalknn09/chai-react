@@ -1,2 +1,2 @@
 # chai-react
-learnihng react
+learning react
