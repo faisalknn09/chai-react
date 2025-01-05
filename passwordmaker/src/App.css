@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+#footer{
+  font-size:xx-large;
+  color: rgb(7, 206, 246);
+  background-color: rgb(27, 33, 42);
+  border-radius: 10px;
+}
+.checkbox{
+  font-size: medium;
+  font-weight: 400;
+  color: rgba(11, 76, 105, 0.819);
+}
+input{
+  cursor: pointer;
+}
